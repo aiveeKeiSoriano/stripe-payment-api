@@ -1,0 +1,24 @@
+{
+  "name": "stripe-payment-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aiveeKeiSoriano/stripe-payment-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aiveeKeiSoriano/stripe-payment-api/issues"
+  },
+  "homepage": "https://github.com/aiveeKeiSoriano/stripe-payment-api#readme",
+  "dependencies": {
+    "@stripe/stripe-js": "^1.13.2",
+    "readline-sync": "^1.4.10",
+    "stripe": "^8.145.0"
+  }
+}
